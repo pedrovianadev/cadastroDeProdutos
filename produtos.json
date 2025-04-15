@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "nome": "mouse",
+        "preco": 45.0,
+        "quantidade": 28,
+        "preco_com_imposto": 51.75
+    },
+    {
+        "id": 2,
+        "nome": "teclado",
+        "preco": 15.0,
+        "quantidade": 67,
+        "preco_com_imposto": 17.25
+    },
+    {
+        "id": 3,
+        "nome": "fone",
+        "preco": 30.0,
+        "quantidade": 45,
+        "preco_com_imposto": 34.5
+    },
+    {
+        "id": 4,
+        "nome": "mousepad",
+        "preco": 20.0,
+        "quantidade": 40,
+        "preco_com_imposto": 23.0
+    }
+]
