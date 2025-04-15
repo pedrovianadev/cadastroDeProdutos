@@ -2,6 +2,8 @@
 
 Este código implementa um sistema simples para cadastrar, listar, editar e remover produtos. Ele mantém os dados dos produtos em um arquivo JSON (`produtos.json`) e permite ao usuário interagir com o sistema por meio de um menu de opções.
 
+Feito para um projeto na faculdade de Análise e Desenvolvimento de Sistemas no SENAC
+
 ## Variáveis Globais
 
 - `produtos`: Lista que armazena os produtos cadastrados. Cada produto é representado como um dicionário com os campos `id`, `nome`, `preco`, `quantidade` e `preco_com_imposto`.
